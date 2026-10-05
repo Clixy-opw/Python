@@ -1,0 +1,5 @@
+print("My name is M.Hassan Ali")
+print("My age is ", 11, "\n")
+print("I go to Aitchison College")
+print("I love Football")
+print('I love to code')
